@@ -1,2 +1,2 @@
 #!/bash/bin
-why?
+mkdir /tmp/my_first_directory
