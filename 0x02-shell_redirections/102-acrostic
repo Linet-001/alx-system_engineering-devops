@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c1 | paste -s | tr -d "[[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[l[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C:blank:]"
+cut -c1 | paste -s | tr d "[:blank:]"
