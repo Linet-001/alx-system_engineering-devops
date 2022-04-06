@@ -1,2 +1,2 @@
 #!/bin/bash
-paste -d, - - | cut -d, -[D[D[D[D[D[D[D[D[D[D[D -[C[C[C[C[C[C[C[C[C[C[C[Cf1
+paste -d, - - | cut -d, -fl
