@@ -1,0 +1,2 @@
+#!/bin/bash
+printf %[D'%.2f\n' $NUM
