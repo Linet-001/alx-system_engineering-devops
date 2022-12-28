@@ -1,4 +1,8 @@
 # Load Balancer
+## Read or watch:
+* <a href="https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts">Introduction to load-balancing and HAproxy<a/>
+* <a href="https://www.techopedia.com/definition/27178/">http-header>HTTP header</a>
+* <a href="https://haproxy.debian.net/">Debian/Ubuntu HAProxy packages<a/>
 
 This project contains tasks for learning about how to work with a load balancer (HAProxy).
 
