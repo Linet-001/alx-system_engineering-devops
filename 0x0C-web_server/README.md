@@ -1,4 +1,14 @@
 # Web Server
+## Resources
+### Read or watch:
+* <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works">How the web works</a>
+* <a href="https://en.wikipedia.org/wiki/Nginx"Nginx<a/>
+* <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04">How to Configure Nginx<a/>
+* <a href="https://landingi.com/help/domains-vs-subdomains/">Root and sub domain<a/>
+* <a href="https://www.tutorialspoint.com/http/http_methods.htm">HTTP requests<a/>
+* <a href="https://moz.com/learn/seo/redirection">HTTP redirection<a/>
+* <a href="https://en.wikipedia.org/wiki/HTTP_404">Not found HTTP response code</a>
+* <a href="https://www.cyberciti.biz/faq/ubuntu-linux-gnome-system-log-viewer/">Logs files on Linux<a/>
 
 This project contains tasks for learning about the installation and configuration of a web server (Nginx).
 
