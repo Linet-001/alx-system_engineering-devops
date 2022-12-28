@@ -1,4 +1,8 @@
-Firewall
+### Firewall
+## Resources
+# Read or watch:
+* <a href="https://en.wikipedia.org/wiki/Firewall_%28computing%29">What is a firewall</a>
+
 In this project, I used ufw to configure firewalls on my issued web servers.
 
 Resources
