@@ -1,4 +1,11 @@
 # Configuration Management
+## Resources
+### Read or watch:
+* <a href="https://www.digitalocean.com/community/tutorials/an-introduction-to-configuration-management">Intro to Configuration Management</a>
+* <a href="https://www.puppet.com/docs/puppet/5.5/types/file.html">Puppet resource type: file (check “Resource types” for all manifest types in the left menu)</a>
+* <a href="https://www.puppet.com/blog">Puppet’s Declarative Language: Modeling Instead of Scripting</a>
+* <a href="http://puppet-lint.com/">Puppet lint<a/>
+* <a href="https://github.com/voxpupuli/puppet-mode">Puppet emacs mode</a>
 
 This project contains tasks for learning about configuration management using Puppet (the Ruby gem).
 
