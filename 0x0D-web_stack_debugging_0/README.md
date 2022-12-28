@@ -1,7 +1,12 @@
 # Web Stack Debugging
-
-This project contains tasks for learning about how to debug web stacks.
-
+## Resources
+* <a href="https://www.techtarget.com/searchnetworking/definition/protocol">What is a protocol</a>
+* <a href="https://computer.howstuffworks.com/internet/basics/what-is-an-ip-address.htm">What is an IP address</a>
+* <a href="https://www.techtarget.com/searchnetworking/definition/TCP-IP">What is TCP/IP<
+This project contains tasks for learning about how to debug web stacks.</a>
+* <a href="https://www.lifewire.com/port-numbers-on-computer-networks-817939">What is an Internet Protocol (IP) port?</a>
+* <a href="https://www.zdnet.com/article/what-is-docker-and-why-is-it-so-darn-popular/">What is Docker and why is it popular?</a>
+* 
 ## Tasks To Complete
 
 + [x] 0\. Give me a page!<br/>_**[0-give_me_a_page](0-give_me_a_page)**_ contains a Bash script with commands used to fix the issue described below.
