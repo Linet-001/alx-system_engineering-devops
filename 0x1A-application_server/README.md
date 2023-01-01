@@ -1,3 +1,10 @@
+# Reasources
+* <a href="https://www.nginx.com/resources/glossary/application-server-vs-web-server/">Application server vs web server</a>
+* <a href="https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-16-04">How to Serve a Flask Application with Gunicorn and Nginx on Ubuntu 16.04 (As mentioned in the video, do not install Gunicorn using virtualenv, just install everything globally)</a>
+* <a href="https://docs.gunicorn.org/en/latest/run.html">Running Gunicorn</a>
+* <a href="https://werkzeug.palletsprojects.com/en/0.14.x/routing/">Be careful with the way Flask manages slash in route - strict_slashes<a/>
+* <a href="https://upstart.ubuntu.com/cookbook/">Upstart documentation</a>
+
 # Application server
 
 This was the application deployment project for our AirBnB clone. In this
