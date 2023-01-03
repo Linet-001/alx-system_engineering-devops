@@ -1,4 +1,8 @@
 # API Advanced
+# Resources
+* <a href="https://www.reddit.com/dev/api/">Reddit API Documentation<a/>
+* <a href="https://en.wikipedia.org/wiki/Query_string">Query String<a/>
+
 
 This project contains more tasks for learning how to consume RESTful APIs.
 
